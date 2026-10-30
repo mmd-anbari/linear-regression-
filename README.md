@@ -37,5 +37,3 @@ The model uses historical CSV data for **SPDR Gold Shares (GLD)** downloaded fro
 3. Run the `Main.java` class.
 4. The console will output the optimally calculated weights ($w_0$ to $w_5$) for the features.
 
-## 🔬 Academic Context
-This project was developed as part of a Machine Learning comparative study to understand the internal mechanics of Ordinary Least Squares (OLS) before comparing it against Regularization techniques (like Ridge/Lasso) using Python's `scikit-learn`. Building this from scratch demonstrates a deep understanding of numerical instability, matrix dimensionality, and linear algebra in programming.
